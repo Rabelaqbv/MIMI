@@ -1,4 +1,4 @@
 function myFuncion() {
-    alert("Eu sou foda pragarai")
+    alert("Eu sou foda pragarai");
     
 }
