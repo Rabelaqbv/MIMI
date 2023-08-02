@@ -1,3 +1,3 @@
 function myFuncion() {
-    alert("Eu sou foda pragarai");
+    alert("Sou muito foda!");
 }
