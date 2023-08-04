@@ -1,3 +1,3 @@
 function myFuncion() {
-    alert("Nao repita isso jamais!");
+    alert("Não repita isso jamais!");
 }
