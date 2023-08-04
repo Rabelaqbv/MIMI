@@ -1,3 +1,3 @@
 function myFuncion() {
-    alert("Sou muito foda!");
+    alert("Nao repita isso jamais!");
 }
